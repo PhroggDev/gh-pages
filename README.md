@@ -1,3 +1,7 @@
-# beginner-html-site-styled
-A simple one page website created to help complete beginners learn HTML basics, which in this repo has also been styled to help beginners learn CSS basics. The styling is explained over the course of [https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/CSS_basics](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/CSS_basics).
-
+# Git Hub Pages Repo
+A place to put some 
++ HTML
++ CSS
++ JSS
++ MarkDown
+Then sit back and watch the *magic* happen as these files are turned into a web page
